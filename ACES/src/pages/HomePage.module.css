@@ -1,0 +1,975 @@
+.contactcopyrightChild {
+  position: absolute;
+  top: 23.81rem;
+  left: 0;
+  background-color: var(--color-lightpink);
+  width: 120rem;
+  height: 3.81rem;
+}
+.contactcopyrightItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-lightsteelblue);
+  width: 120rem;
+  height: 23.81rem;
+}
+.materialSymbolsfaxOutlineIcon,
+.materialSymbolshouseIcon {
+  position: absolute;
+  top: 16.13rem;
+  left: 73.38rem;
+  width: 3.88rem;
+  height: 3.88rem;
+  overflow: hidden;
+  object-fit: cover;
+}
+.materialSymbolsfaxOutlineIcon {
+  top: 17rem;
+  left: 21.69rem;
+  width: 3.44rem;
+  height: 3.44rem;
+}
+.pondSpringsRd {
+  margin: 0;
+}
+.pondSpringsRdContainer {
+  position: absolute;
+  top: 15.5rem;
+  left: 77rem;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 36.69rem;
+  height: 6.19rem;
+}
+.infoaceslearningcentercom {
+  top: 10.19rem;
+  left: 78.44rem;
+}
+.acesAcademicEnrichment,
+.div,
+.div1,
+.infoaceslearningcentercom {
+  position: absolute;
+  letter-spacing: -0.02em;
+}
+.acesAcademicEnrichment {
+  top: 24.75rem;
+  left: 0.75rem;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  font-family: var(--font-inter);
+  width: 47.5rem;
+  height: 2rem;
+}
+.div,
+.div1 {
+  top: 17rem;
+  left: 26.25rem;
+}
+.div1 {
+  top: 10.19rem;
+  left: 25.94rem;
+}
+.solarphoneLinearIcon {
+  position: absolute;
+  top: 10.69rem;
+  left: 21.69rem;
+  width: 3.44rem;
+  height: 3.44rem;
+  overflow: hidden;
+  object-fit: cover;
+}
+.am5pm,
+.contactUs {
+  position: absolute;
+  top: 5.69rem;
+  left: 48.25rem;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 23.88rem;
+  height: 2.63rem;
+}
+.contactUs {
+  top: 1.38rem;
+  left: 52.13rem;
+  font-size: var(--h1-size);
+  font-family: var(--font-karma);
+  color: var(--color-gray);
+  width: 15.75rem;
+  height: 2.94rem;
+}
+.vectorIcon {
+  height: 9.41%;
+  width: 2.86%;
+  top: 38.78%;
+  right: 35.83%;
+  bottom: 51.81%;
+  left: 61.3%;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.contactcopyright,
+.socialsIcon,
+.vectorIcon {
+  position: absolute;
+  overflow: hidden;
+}
+.socialsIcon {
+  top: 24.13rem;
+  left: 95.63rem;
+  width: 18.81rem;
+  height: 3.25rem;
+  object-fit: cover;
+}
+.contactcopyright {
+  top: 204.81rem;
+  left: 0;
+  width: 120rem;
+  height: 27.56rem;
+  text-align: center;
+  font-size: var(--font-size-26xl);
+}
+.whoWeAreChild {
+  position: absolute;
+  top: calc(50% - 167px);
+  right: 10.56rem;
+  border-radius: 50%;
+  width: 22.31rem;
+  height: 20.94rem;
+  object-fit: cover;
+}
+.ourMission {
+  position: absolute;
+  top: 1.88rem;
+  left: calc(50% - 136px);
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 16.94rem;
+  height: 3.5rem;
+}
+.whoWeAreItem {
+  position: absolute;
+  top: calc(50% - 167px);
+  left: 8.56rem;
+  border-radius: var(--br-61xl);
+  background-color: var(--color-lightsteelblue);
+  width: 69.88rem;
+  height: 22.13rem;
+}
+.huiQuan {
+  position: absolute;
+  top: 28.94rem;
+  left: 91.75rem;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 13.13rem;
+  height: 3.63rem;
+}
+.iconParkOutlinequote {
+  position: absolute;
+  height: 32.56%;
+  top: 67.36%;
+  bottom: 0.08%;
+  left: calc(50% + 100px);
+  max-height: 100%;
+  width: 4.77rem;
+  overflow: hidden;
+  object-fit: contain;
+}
+.iconParkOutlinequote1 {
+  position: absolute;
+  top: -0.5rem;
+  left: 0.25rem;
+  width: 4.81rem;
+  height: 5rem;
+  overflow: hidden;
+  object-fit: cover;
+}
+.weStriveTo {
+  position: absolute;
+  top: 2.19rem;
+  left: 3.5rem;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 28.19rem;
+  height: 11.06rem;
+}
+.quote1 {
+  position: absolute;
+  top: 10.63rem;
+  left: 10.63rem;
+  width: 30.63rem;
+  height: 15.13rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--color-whitesmoke);
+  font-family: var(--font-petrona);
+}
+.weProvideA {
+  position: absolute;
+  top: 2rem;
+  left: 4.19rem;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 20.94rem;
+  height: 8.19rem;
+}
+.iconParkOutlinequote2 {
+  top: -0.31rem;
+  left: 0.31rem;
+  width: 4.81rem;
+  height: 5rem;
+  object-fit: cover;
+}
+.iconParkOutlinequote2,
+.iconParkOutlinequote3,
+.quote2 {
+  position: absolute;
+  overflow: hidden;
+}
+.iconParkOutlinequote3 {
+  height: 36.65%;
+  top: 57.67%;
+  bottom: 5.67%;
+  left: calc(50% + 104px);
+  max-height: 100%;
+  width: 4.77rem;
+  object-fit: contain;
+}
+.quote2 {
+  top: 11.38rem;
+  left: 47.94rem;
+  width: 25.13rem;
+  height: 13.44rem;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--color-whitesmoke);
+  font-family: var(--font-petrona);
+}
+.whoWeAre {
+  position: absolute;
+  top: 117.19rem;
+  left: 0;
+  background-color: var(--color-lightpink);
+  width: 120rem;
+  height: 34.5rem;
+}
+.reviewsChild {
+  position: absolute;
+  top: 9.75rem;
+  left: 74.06rem;
+  border-radius: var(--br-41xl);
+  background-color: var(--color-darkolivegreen-100);
+  width: 40.63rem;
+  height: 25rem;
+}
+.reviewsItem,
+.youtubeChild {
+  position: absolute;
+  top: 11.63rem;
+  left: 76.25rem;
+  background-color: var(--color-white);
+  width: 36.25rem;
+  height: 21.25rem;
+}
+.youtubeChild {
+  top: -2.06rem;
+  left: -2.12rem;
+  border-radius: var(--br-41xl);
+  background-color: var(--color-darkolivegreen-100);
+  width: 65.63rem;
+  height: 35.94rem;
+}
+.youtube {
+  position: absolute;
+  top: 11.63rem;
+  left: 5.81rem;
+  background-color: var(--color-gainsboro-200);
+  width: 61.38rem;
+  height: 31.88rem;
+}
+.reviews1,
+.whyUs,
+.youtubeLink {
+  position: absolute;
+  letter-spacing: -0.02em;
+  display: inline-block;
+}
+.youtubeLink {
+  top: 26.56rem;
+  left: 28rem;
+  font-size: 3rem;
+  width: 16.94rem;
+  height: 4.44rem;
+}
+.reviews1,
+.whyUs {
+  top: 37.88rem;
+  left: 83.06rem;
+  font-family: var(--h1);
+  color: var(--color-darkolivegreen-100);
+  text-align: center;
+  width: 22.56rem;
+  height: 3.5rem;
+}
+.whyUs {
+  top: 3.06rem;
+  left: 48.69rem;
+}
+.review4Child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 36.25rem;
+  height: 21.25rem;
+}
+.review4Child1,
+.review4Child2,
+.review4Inner,
+.review4Item,
+.starIcon {
+  position: absolute;
+  top: 1.75rem;
+  left: 4.5rem;
+  width: 4.25rem;
+  height: 4.13rem;
+  object-fit: cover;
+}
+.review4Child1,
+.review4Child2,
+.review4Inner,
+.starIcon {
+  left: 27.5rem;
+}
+.review4Child1,
+.review4Child2,
+.starIcon {
+  left: 21.75rem;
+}
+.review4Child1,
+.review4Child2 {
+  left: 16rem;
+}
+.review4Child2 {
+  left: 10.25rem;
+}
+.iThinkThe,
+.jennyL {
+  position: absolute;
+  top: 7rem;
+  left: 5.13rem;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 26.63rem;
+  height: 11.44rem;
+}
+.jennyL {
+  top: 11.94rem;
+  left: 27.13rem;
+  font-size: var(--font-size-sm);
+  width: 5rem;
+  height: 1.38rem;
+}
+.review4 {
+  position: absolute;
+  top: 0;
+  left: 140.44rem;
+  width: 36.25rem;
+  height: 21.25rem;
+}
+.rebeccaB {
+  position: absolute;
+  top: 19.13rem;
+  left: 22.5rem;
+  font-size: var(--font-size-sm);
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 5rem;
+  height: 1.38rem;
+}
+.review3 {
+  position: absolute;
+  top: 0;
+  left: 93.63rem;
+  width: 36.25rem;
+  height: 21.25rem;
+  font-size: var(--font-size-base);
+}
+.rochelleF {
+  position: absolute;
+  top: 12.75rem;
+  left: 22.5rem;
+  font-size: var(--font-size-sm);
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 5rem;
+  height: 1.38rem;
+}
+.review2 {
+  top: 0;
+  left: 46.81rem;
+  width: 36.25rem;
+  height: 21.25rem;
+}
+.gregT,
+.review1,
+.review2 {
+  position: absolute;
+}
+.gregT {
+  top: 18.44rem;
+  left: 18.13rem;
+  font-size: var(--font-size-sm);
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 5rem;
+  height: 1.38rem;
+}
+.review1 {
+  top: 0;
+  left: 0;
+  width: 36.25rem;
+  height: 21.25rem;
+}
+.component2,
+.reviews {
+  position: absolute;
+  overflow: hidden;
+}
+.component2 {
+  top: 11.63rem;
+  left: 76.25rem;
+  width: 36.25rem;
+  height: 21.25rem;
+  font-size: var(--font-size-xl);
+}
+.reviews {
+  top: 151.69rem;
+  left: 0;
+  width: 120rem;
+  height: 53.13rem;
+  color: var(--color-black);
+  font-family: var(--font-judson);
+}
+.apLogoIcon,
+.satLogoIcon {
+  position: absolute;
+  top: 20.25rem;
+  left: 6.56rem;
+  width: 21rem;
+  height: 7.5rem;
+  object-fit: cover;
+}
+.apLogoIcon {
+  top: 8.56rem;
+  left: 1.81rem;
+}
+.testPrep1 {
+  position: absolute;
+  height: 7.54%;
+  width: 32.13%;
+  top: 5.03%;
+  left: 33.83%;
+  letter-spacing: -0.02em;
+  display: inline-block;
+}
+.testPrep {
+  position: absolute;
+  height: 73.65%;
+  width: 24.48%;
+  top: 20.51%;
+  right: 8.59%;
+  bottom: 5.84%;
+  left: 66.93%;
+  background-color: var(--color-lightsteelblue);
+  overflow: hidden;
+}
+.readMore {
+  top: 29.38rem;
+  left: calc(50% + 66px);
+  text-decoration: underline;
+  width: 9.81rem;
+  height: 1.94rem;
+}
+.readMore,
+.summerCamps1,
+.weAreExcitedContainer {
+  position: absolute;
+  letter-spacing: -0.02em;
+  display: inline-block;
+}
+.weAreExcitedContainer {
+  top: 6.56rem;
+  left: calc(50% - 207px);
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-hahmlet);
+  text-align: center;
+  width: 26rem;
+  height: 21.25rem;
+}
+.summerCamps1 {
+  top: 1.94rem;
+  left: calc(50% - 129px);
+  font-size: var(--font-size-17xl);
+  font-family: var(--h1);
+  width: 16.25rem;
+  height: 2.44rem;
+}
+.summerCamps {
+  position: absolute;
+  height: 73.65%;
+  width: 24.48%;
+  top: 20.51%;
+  right: 37.76%;
+  bottom: 5.84%;
+  left: 37.76%;
+  background-color: var(--color-crimson-200);
+  overflow: hidden;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+}
+.tutoring1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  letter-spacing: -0.02em;
+  display: inline-block;
+}
+.mditeachIcon {
+  position: absolute;
+  top: -6.44rem;
+  left: 0.31rem;
+  width: 5.63rem;
+  height: 5.63rem;
+  overflow: hidden;
+  object-fit: cover;
+}
+.tutoring {
+  position: absolute;
+  top: 25.94rem;
+  left: 17.88rem;
+  width: 6.25rem;
+  height: 1.06rem;
+}
+.iconParkOutlinecodeCompute {
+  position: absolute;
+  top: -6.37rem;
+  left: 2.13rem;
+  width: 5.63rem;
+  height: 5.63rem;
+  overflow: hidden;
+  object-fit: cover;
+}
+.programming {
+  position: absolute;
+  top: 25.88rem;
+  left: 4.25rem;
+  width: 9.81rem;
+  height: 1.06rem;
+}
+.mingcutescienceLineIcon {
+  position: absolute;
+  top: -5.94rem;
+  left: 0.19rem;
+  width: 5.63rem;
+  height: 5.63rem;
+  overflow: hidden;
+  object-fit: cover;
+}
+.science,
+.tablermathIcon {
+  position: absolute;
+  top: 13.75rem;
+  left: 21.13rem;
+  width: 5.94rem;
+  height: 1.06rem;
+}
+.tablermathIcon {
+  top: -6.37rem;
+  left: -0.87rem;
+  width: 5.63rem;
+  height: 5.63rem;
+  overflow: hidden;
+  object-fit: cover;
+}
+.math {
+  position: absolute;
+  top: 13.75rem;
+  left: 12.88rem;
+  width: 3.88rem;
+  height: 1.06rem;
+}
+.iconParkOutlinewritingFlue {
+  position: absolute;
+  top: -6.37rem;
+  left: -0.25rem;
+  width: 5.63rem;
+  height: 5.63rem;
+  overflow: hidden;
+  object-fit: cover;
+}
+.english {
+  position: absolute;
+  top: 13.75rem;
+  left: 2.94rem;
+  width: 5.38rem;
+  height: 1.06rem;
+}
+.enrichmentPrograms1 {
+  position: absolute;
+  top: 2.19rem;
+  left: 3.06rem;
+  font-size: var(--font-size-17xl);
+  letter-spacing: -0.02em;
+  display: inline-block;
+  font-family: var(--h1);
+  width: 23.19rem;
+  height: 2.44rem;
+}
+.enrichmentPrograms {
+  position: absolute;
+  height: 73.65%;
+  width: 24.48%;
+  top: 20.51%;
+  right: 66.67%;
+  bottom: 5.84%;
+  left: 8.85%;
+  background-color: var(--color-lightsteelblue);
+  overflow: hidden;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+}
+.whatWeOffer1 {
+  position: absolute;
+  top: 2.06rem;
+  left: 48.69rem;
+  font-size: var(--h1-size);
+  letter-spacing: -0.02em;
+  display: inline-block;
+  color: var(--color-darkolivegreen-100);
+  width: 22.56rem;
+  height: 3.5rem;
+}
+.whatWeOffer {
+  position: absolute;
+  top: 70.06rem;
+  left: 0;
+  background-color: var(--color-white);
+  width: 120rem;
+  height: 43.88rem;
+  overflow: hidden;
+  font-size: var(--font-size-17xl);
+  font-family: var(--h1);
+}
+.icon,
+.icon1,
+.icon2,
+.icon3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: -411.04%;
+  bottom: 0;
+  left: 411.04%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.icon1,
+.icon2,
+.icon3 {
+  right: -271.87%;
+  left: 271.88%;
+}
+.icon2,
+.icon3 {
+  right: -141.3%;
+  left: 141.3%;
+}
+.icon3 {
+  right: 0;
+  left: 0;
+}
+.component1,
+.headerChild {
+  position: absolute;
+  left: 0;
+  width: 120rem;
+}
+.component1 {
+  top: 17rem;
+  height: 53.06rem;
+  overflow: hidden;
+}
+.headerChild {
+  top: -0.19rem;
+  background-color: var(--color-white);
+  height: 12.06rem;
+}
+.navbarChild {
+  position: absolute;
+  top: 0.94rem;
+  left: 55.31rem;
+  width: 1.56rem;
+  height: 1.25rem;
+  object-fit: contain;
+  cursor: pointer;
+}
+.applyNow {
+  top: 0;
+  left: 43.5rem;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  color: var(--color-darkolivegreen-100);
+  width: 11.81rem;
+  height: 2.94rem;
+}
+.abUsPredropChild,
+.aboutUs,
+.applyNow {
+  position: absolute;
+  cursor: pointer;
+}
+.abUsPredropChild {
+  top: 1.06rem;
+  left: 9.38rem;
+  width: 1.56rem;
+  height: 1.25rem;
+  object-fit: contain;
+}
+.aboutUs {
+  top: 0.13rem;
+  left: 0.13rem;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 9.25rem;
+  height: 2.94rem;
+}
+.abUsPredrop {
+  position: absolute;
+  top: -0.12rem;
+  left: 31.56rem;
+  width: 25.94rem;
+  height: 22.63rem;
+  overflow: hidden;
+}
+.schedule {
+  position: absolute;
+  top: 0.25rem;
+  left: 0.19rem;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 9.5rem;
+  height: 2.94rem;
+  cursor: pointer;
+}
+.schedulePreDropChild {
+  position: absolute;
+  top: 1.13rem;
+  left: 9.69rem;
+  width: 1.56rem;
+  height: 1.25rem;
+  object-fit: contain;
+  cursor: pointer;
+}
+.schedulePreDrop {
+  position: absolute;
+  top: -0.25rem;
+  left: 19.38rem;
+  width: 23.13rem;
+  height: 24.94rem;
+  overflow: hidden;
+}
+.navbar {
+  position: absolute;
+  top: 8.88rem;
+  left: 62.5rem;
+  width: 7.13rem;
+  height: 2.94rem;
+}
+.academic,
+.enrichmentCenter,
+.home {
+  position: absolute;
+  letter-spacing: -0.02em;
+}
+.home {
+  height: 24.87%;
+  width: 5.94%;
+  top: 75.13%;
+  left: 50.31%;
+  display: inline-block;
+}
+.academic,
+.enrichmentCenter {
+  left: 0;
+  display: flex;
+  align-items: flex-end;
+}
+.academic {
+  height: 100%;
+  width: 100%;
+  top: 0;
+}
+.enrichmentCenter {
+  top: 3.56rem;
+  color: var(--color-darkolivegreen-100);
+  width: 37.75rem;
+  height: 3.94rem;
+  mix-blend-mode: normal;
+}
+.aceslogo1Icon {
+  position: absolute;
+  top: -2.5rem;
+  left: -8.62rem;
+  width: 7.19rem;
+  height: 8.69rem;
+  object-fit: cover;
+}
+.acesLogo {
+  position: absolute;
+  top: 2.81rem;
+  left: 10.63rem;
+  width: 19rem;
+  height: 3.75rem;
+  font-size: var(--font-size-25xl);
+  color: var(--color-darkolivegreen-200);
+  font-family: var(--font-inknut-antiqua);
+}
+.headerItem,
+.programs {
+  position: absolute;
+  cursor: pointer;
+}
+.programs {
+  top: 8.88rem;
+  left: 69.19rem;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 10.25rem;
+  height: 2.94rem;
+}
+.headerItem {
+  top: 9.81rem;
+  left: 79.44rem;
+  width: 1.56rem;
+  height: 1.25rem;
+  object-fit: contain;
+}
+.header {
+  position: absolute;
+  top: 5.19rem;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 120rem;
+  height: 11.81rem;
+  overflow: hidden;
+  font-size: var(--font-size-20xl);
+  color: var(--color-lightsteelblue);
+  font-family: var(--font-judson);
+}
+.applyNowChild {
+  position: absolute;
+  top: -0.87rem;
+  left: -1.56rem;
+  border-radius: var(--br-xl);
+  background-color: var(--color-lightsteelblue);
+  width: 11.81rem;
+  height: 3.06rem;
+}
+.applyNow2 {
+  position: absolute;
+  height: 95.83%;
+  width: 87.5%;
+  top: -8.33%;
+  left: 6.25%;
+  letter-spacing: -0.02em;
+  display: inline-block;
+}
+.applyNow1 {
+  position: absolute;
+  top: 1.94rem;
+  left: 108.44rem;
+  width: 9rem;
+  height: 1.5rem;
+  font-family: var(--font-inter);
+}
+.socialsIcon1 {
+  position: absolute;
+  top: 0.88rem;
+  left: 87.19rem;
+  width: 18.81rem;
+  height: 3.25rem;
+  overflow: hidden;
+  object-fit: cover;
+}
+.div2,
+.infoaceslearningcentercom1 {
+  position: absolute;
+  top: 1.19rem;
+  letter-spacing: -0.02em;
+  display: inline-block;
+}
+.infoaceslearningcentercom1 {
+  right: 74.94rem;
+  width: 23.13rem;
+  height: 1.81rem;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.div2 {
+  right: 103.2rem;
+  width: 11.18rem;
+  height: 1.83rem;
+}
+.solarphoneLinearIcon1,
+.vectorIcon1 {
+  position: absolute;
+  overflow: hidden;
+  object-fit: cover;
+}
+.vectorIcon1 {
+  height: 50.61%;
+  width: 2.86%;
+  top: 27.68%;
+  right: 82.24%;
+  bottom: 21.71%;
+  left: 14.9%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.solarphoneLinearIcon1 {
+  top: 1.25rem;
+  left: 2.19rem;
+  width: 3.44rem;
+  height: 3.44rem;
+}
+.contactHeader {
+  position: absolute;
+  top: -0.06rem;
+  left: 0;
+  background-color: var(--color-crimson-200);
+  width: 120rem;
+  height: 5.13rem;
+  overflow: hidden;
+  font-size: var(--font-size-3xl-4);
+  font-family: var(--font-hahmlet);
+}
+.homePage {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 232.44rem;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--h1-size);
+  color: var(--color-white);
+  font-family: var(--font-alice);
+}

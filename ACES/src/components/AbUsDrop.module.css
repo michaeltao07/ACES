@@ -1,0 +1,118 @@
+.aboutUs {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  font-size: var(--font-size-20xl);
+  letter-spacing: -0.02em;
+  display: inline-block;
+  color: var(--color-lightsteelblue);
+  width: 189px;
+  height: 47px;
+}
+.abUsDropChild {
+  position: absolute;
+  top: 17px;
+  left: 149px;
+  width: 25px;
+  height: 20px;
+  object-fit: contain;
+}
+.abUsDropInner,
+.abUsDropItem,
+.rectangleDiv {
+  position: absolute;
+  background-color: var(--color-gainsboro-200);
+  height: 62px;
+}
+.abUsDropItem {
+  top: 300px;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 257px;
+}
+.abUsDropInner,
+.rectangleDiv {
+  top: 49px;
+  left: 1px;
+  width: 256px;
+}
+.rectangleDiv {
+  top: 111px;
+  left: 2px;
+  width: 255px;
+}
+.abUsDropChild1,
+.abUsDropChild2,
+.abUsDropChild3 {
+  position: absolute;
+  left: 1px;
+  background-color: var(--color-gainsboro-200);
+  width: 256px;
+}
+.abUsDropChild1 {
+  top: 173px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  height: 62px;
+}
+.abUsDropChild2,
+.abUsDropChild3 {
+  top: 235px;
+  height: 65px;
+}
+.abUsDropChild3 {
+  top: 49px;
+  left: -1px;
+  background-color: var(--color-lightsteelblue);
+  width: 258px;
+  height: 312px;
+}
+.employment,
+.teacherProfiles,
+.whoWeAre,
+.whyUs {
+  position: absolute;
+  top: 313px;
+  left: 8px;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 226px;
+  height: 36px;
+}
+.employment,
+.whoWeAre,
+.whyUs {
+  top: 62px;
+  width: 172px;
+}
+.employment,
+.whyUs {
+  top: 124px;
+}
+.employment {
+  top: 186px;
+  width: 178px;
+}
+.internships1 {
+  margin: 0;
+}
+.internships {
+  position: absolute;
+  top: 248px;
+  left: 8px;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 178px;
+  height: 36px;
+  cursor: pointer;
+}
+.abUsDrop {
+  width: 415px;
+  height: 362px;
+  overflow: hidden;
+  max-width: 100%;
+  max-height: 100%;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-judson);
+}

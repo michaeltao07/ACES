@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inika:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Judson:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Hahmlet:wght@400;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alice:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Karma:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Petrona:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-work-sans: "Work Sans";
+  --h1: Inika;
+  --font-hahmlet: Hahmlet;
+  --font-judson: Judson;
+  --font-inknut-antiqua: "Inknut Antiqua";
+  --font-karma: Karma;
+  --font-alice: Alice;
+  --font-petrona: Petrona;
+
+  /* font sizes */
+  --font-size-3xl-4: 1.4rem;
+  --font-size-77xl: 6rem;
+  --font-size-base: 1rem;
+  --font-size-5xl: 1.5rem;
+  --font-size-9xl: 1.75rem;
+  --font-size-61xl: 5rem;
+  --font-size-21xl: 2.5rem;
+  --font-size-7xl: 1.63rem;
+  --font-size-45xl: 4rem;
+  --font-size-sm: 0.88rem;
+  --font-size-xl: 1.25rem;
+  --font-size-13xl: 2rem;
+  --font-size-20xl: 2.44rem;
+  --font-size-25xl: 2.75rem;
+  --h1-size: 3.13rem;
+  --font-size-26xl: 2.81rem;
+  --font-size-17xl: 2.25rem;
+  --font-size-11xl: 1.88rem;
+  --font-size-3xl: 1.38rem;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-lightsteelblue: #b1d0ea;
+  --color-black: #000;
+  --color-blueviolet: #9747ff;
+  --color-gainsboro-100: #dadada;
+  --color-gainsboro-200: #d9d9d9;
+  --color-whitesmoke: #f8f8f8;
+  --color-darkolivegreen-100: #587a49;
+  --color-darkolivegreen-200: #5e6732;
+  --color-crimson-100: #de1e40;
+  --color-crimson-200: rgba(205, 26, 80, 0.4);
+  --color-gray: #fafafa;
+  --color-lightpink: #eba3b9;
+  --color-dodgerblue: #0084fd;
+  --color-forestgreen: #008525;
+  --color-mediumturquoise: #26d2c8;
+  --color-saddlebrown: #673800;
+
+  /* Gaps */
+  --gap-xl: 1.25rem;
+  --gap-3xs: 0.63rem;
+  --gap-81xl: 6.25rem;
+
+  /* Paddings */
+  --padding-xl: 1.25rem;
+  --padding-10xs: 0.19rem;
+  --padding-base: 1rem;
+  --padding-16xl: 2.19rem;
+  --padding-21xl: 2.5rem;
+  --padding-34xl: 3.31rem;
+  --padding-19xl: 2.38rem;
+  --padding-834xl: 53.31rem;
+  --padding-10xl: 1.81rem;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+  --br-41xl: 60px;
+  --br-mini: 15px;
+  --br-81xl: 100px;
+  --br-8xs: 5px;
+  --br-61xl: 80px;
+  --br-11xl: 30px;
+}

@@ -1,0 +1,67 @@
+.scheduleDropChild {
+  position: absolute;
+  top: 18px;
+  left: 155px;
+  width: 25px;
+  height: 20px;
+  object-fit: contain;
+}
+.schedule {
+  position: absolute;
+  top: 4px;
+  left: 3px;
+  font-size: var(--font-size-20xl);
+  letter-spacing: -0.02em;
+  display: inline-block;
+  color: var(--color-lightsteelblue);
+  width: 152px;
+  height: 47px;
+}
+.scheduleDropItem {
+  position: absolute;
+  top: 51px;
+  left: 0;
+  background-color: var(--color-lightsteelblue);
+  width: 256px;
+  height: 186px;
+}
+.fall,
+.spring {
+  position: absolute;
+  left: 11px;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  height: 36px;
+}
+.fall {
+  top: 71px;
+  width: 186px;
+  cursor: pointer;
+}
+.spring {
+  top: 126px;
+  width: 200px;
+}
+.blankLine {
+  margin: 0;
+}
+.summer {
+  position: absolute;
+  top: 188px;
+  left: 5px;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 156px;
+  height: 36px;
+}
+.scheduleDrop {
+  width: 370px;
+  height: 400px;
+  overflow: hidden;
+  max-width: 100%;
+  max-height: 100%;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-judson);
+}

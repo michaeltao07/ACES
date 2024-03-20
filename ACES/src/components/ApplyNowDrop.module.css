@@ -1,0 +1,61 @@
+.applyNowDropChild {
+  position: absolute;
+  top: 49px;
+  left: 124px;
+  background-color: var(--color-darkolivegreen-100);
+  width: 285px;
+  height: 187px;
+}
+.applyNowDropItem {
+  position: absolute;
+  top: 17px;
+  left: 376px;
+  width: 25px;
+  height: 20px;
+  object-fit: contain;
+}
+.applyNow,
+.fallSchedule,
+.policies,
+.registrationForm {
+  position: absolute;
+  letter-spacing: -0.02em;
+  display: inline-block;
+}
+.applyNow {
+  top: 2px;
+  left: 187px;
+  font-size: var(--font-size-20xl);
+  color: var(--color-darkolivegreen-100);
+  width: 189px;
+  height: 47px;
+}
+.fallSchedule,
+.policies,
+.registrationForm {
+  top: 187px;
+  left: 156px;
+  width: 245px;
+  height: 36px;
+}
+.policies,
+.registrationForm {
+  top: 125px;
+  cursor: pointer;
+}
+.policies {
+  top: 62px;
+  left: 299px;
+  width: 104px;
+}
+.applyNowDrop {
+  width: 409px;
+  height: 241px;
+  overflow: hidden;
+  max-width: 100%;
+  max-height: 100%;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-judson);
+}

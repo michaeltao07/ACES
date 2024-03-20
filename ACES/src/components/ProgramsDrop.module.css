@@ -1,0 +1,83 @@
+.programs {
+  position: absolute;
+  top: 0.13rem;
+  left: 0.06rem;
+  font-size: var(--font-size-20xl);
+  letter-spacing: -0.02em;
+  display: inline-block;
+  color: var(--color-lightsteelblue);
+  width: 10.25rem;
+  height: 2.94rem;
+}
+.programsDropChild {
+  position: absolute;
+  top: 3rem;
+  left: -0.06rem;
+  background-color: var(--color-lightsteelblue);
+  width: 20.69rem;
+  height: 23.63rem;
+}
+.programsDropItem {
+  position: absolute;
+  top: 1.06rem;
+  left: 10.31rem;
+  width: 1.56rem;
+  height: 1.25rem;
+  object-fit: contain;
+}
+.english,
+.mathematics,
+.overview {
+  position: absolute;
+  top: 3.88rem;
+  left: 0.63rem;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 10.75rem;
+  height: 2.25rem;
+  cursor: pointer;
+}
+.english,
+.mathematics {
+  top: 7.81rem;
+}
+.mathematics {
+  top: 11.75rem;
+  width: 11.25rem;
+}
+.scienceusapho1 {
+  margin: 0;
+}
+.programmingusaco,
+.scienceusapho,
+.testPreptutoring {
+  position: absolute;
+  top: 15.69rem;
+  left: 0.63rem;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 14.44rem;
+  height: 2.25rem;
+  cursor: pointer;
+}
+.programmingusaco,
+.testPreptutoring {
+  top: 19.63rem;
+  width: 18.56rem;
+}
+.testPreptutoring {
+  top: 23.56rem;
+  width: 16.25rem;
+}
+.programsDrop {
+  position: relative;
+  width: 22.44rem;
+  height: 27.5rem;
+  overflow: hidden;
+  max-width: 100%;
+  max-height: 100%;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-judson);
+}

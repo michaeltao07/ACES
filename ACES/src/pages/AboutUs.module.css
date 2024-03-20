@@ -1,0 +1,1067 @@
+.background,
+.contactcopyrightChild {
+  position: absolute;
+  left: 0;
+  width: 120rem;
+}
+.background {
+  top: 0;
+  background-color: var(--color-white);
+  height: 232.44rem;
+}
+.contactcopyrightChild {
+  top: 23.81rem;
+  background-color: var(--color-lightpink);
+  height: 3.81rem;
+}
+.contactcopyrightItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-lightsteelblue);
+  width: 120rem;
+  height: 23.81rem;
+}
+.materialSymbolsfaxOutlineIcon,
+.materialSymbolshouseIcon {
+  position: absolute;
+  top: 16.13rem;
+  left: 73.38rem;
+  width: 3.88rem;
+  height: 3.88rem;
+  overflow: hidden;
+  object-fit: cover;
+}
+.materialSymbolsfaxOutlineIcon {
+  top: 17rem;
+  left: 21.69rem;
+  width: 3.44rem;
+  height: 3.44rem;
+}
+.pondSpringsRd {
+  margin: 0;
+}
+.pondSpringsRdContainer {
+  position: absolute;
+  top: 15.5rem;
+  left: 77rem;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 36.69rem;
+  height: 6.19rem;
+}
+.infoaceslearningcentercom {
+  top: 10.19rem;
+  left: 78.44rem;
+}
+.acesAcademicEnrichment,
+.div,
+.div1,
+.infoaceslearningcentercom {
+  position: absolute;
+  letter-spacing: -0.02em;
+}
+.acesAcademicEnrichment {
+  top: 24.75rem;
+  left: 0.75rem;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  font-family: var(--font-inter);
+  width: 47.5rem;
+  height: 2rem;
+}
+.div,
+.div1 {
+  top: 17rem;
+  left: 26.25rem;
+}
+.div1 {
+  top: 10.19rem;
+  left: 25.94rem;
+}
+.solarphoneLinearIcon {
+  position: absolute;
+  top: 10.69rem;
+  left: 21.69rem;
+  width: 3.44rem;
+  height: 3.44rem;
+  overflow: hidden;
+  object-fit: cover;
+}
+.am5pm,
+.contactUs {
+  position: absolute;
+  top: 5.69rem;
+  left: 48.25rem;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 23.88rem;
+  height: 2.63rem;
+}
+.contactUs {
+  top: 1.38rem;
+  left: 52.13rem;
+  font-size: var(--h1-size);
+  font-family: var(--font-karma);
+  color: var(--color-gray);
+  width: 15.75rem;
+  height: 2.94rem;
+}
+.vectorIcon {
+  height: 9.41%;
+  width: 2.86%;
+  top: 38.78%;
+  right: 35.83%;
+  bottom: 51.81%;
+  left: 61.3%;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.contactcopyright,
+.socialsIcon,
+.vectorIcon {
+  position: absolute;
+  overflow: hidden;
+}
+.socialsIcon {
+  top: 24.13rem;
+  left: 95.63rem;
+  width: 18.81rem;
+  height: 3.25rem;
+  object-fit: cover;
+}
+.contactcopyright {
+  top: 204.81rem;
+  left: 0;
+  width: 120rem;
+  height: 27.56rem;
+  text-align: center;
+  font-size: var(--font-size-26xl);
+  font-family: var(--font-alice);
+}
+.whyUs1 {
+  position: absolute;
+  top: 2.38rem;
+  left: 53.31rem;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 13.38rem;
+  height: 3.5rem;
+}
+.frameChild {
+  position: absolute;
+  top: 0.31rem;
+  left: 0.13rem;
+  background-color: var(--color-whitesmoke);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 93.75rem;
+  height: 35.88rem;
+}
+.hourSesssions {
+  position: absolute;
+  top: 0.44rem;
+  left: 28.31rem;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 7.56rem;
+  height: 3.25rem;
+}
+.div2 {
+  position: absolute;
+  left: 42.63rem;
+  text-align: left;
+  width: 2.69rem;
+}
+.aces1,
+.div2,
+.hours {
+  top: 1.19rem;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  height: 1.5rem;
+}
+.hours {
+  position: absolute;
+  left: 52.69rem;
+  width: 7.94rem;
+}
+.aces1 {
+  left: 5.69rem;
+  text-align: left;
+  width: 3.94rem;
+}
+.aces,
+.aces1,
+.div5 {
+  position: absolute;
+}
+.div5 {
+  top: 1.19rem;
+  left: 17.94rem;
+  letter-spacing: -0.02em;
+  text-align: left;
+  display: inline-block;
+  width: 3.69rem;
+  height: 1.5rem;
+}
+.aces {
+  top: 6.81rem;
+  left: 0.13rem;
+  width: 93.75rem;
+  height: 4.31rem;
+  overflow: hidden;
+}
+.div6,
+.moreThanA {
+  position: absolute;
+  letter-spacing: -0.02em;
+  display: inline-block;
+}
+.div6 {
+  top: 1.19rem;
+  left: 43.63rem;
+  text-align: left;
+  width: 1.31rem;
+  height: 1.5rem;
+}
+.moreThanA {
+  top: 0.56rem;
+  left: 3.31rem;
+  width: 8.94rem;
+  height: 3.25rem;
+}
+.aces2 {
+  position: absolute;
+  top: 11.44rem;
+  left: 0.13rem;
+  width: 93.75rem;
+  height: 4.31rem;
+  overflow: hidden;
+}
+.kaplanOnsite {
+  position: absolute;
+  top: 0.56rem;
+  left: 4.88rem;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 5.31rem;
+  height: 3.25rem;
+}
+.aces3 {
+  position: absolute;
+  top: 16.38rem;
+  left: 0.13rem;
+  width: 93.75rem;
+  height: 4.31rem;
+  overflow: hidden;
+}
+.kaplanPrepTrio {
+  position: absolute;
+  top: 0.56rem;
+  left: 3.94rem;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 7.25rem;
+  height: 3.25rem;
+}
+.aces4 {
+  position: absolute;
+  top: 26.25rem;
+  left: 0.13rem;
+  width: 93.75rem;
+  height: 4.31rem;
+  overflow: hidden;
+}
+.act,
+.div19,
+.princetonClassroom {
+  position: absolute;
+  top: 1.19rem;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  height: 1.5rem;
+}
+.div19 {
+  left: 43rem;
+  text-align: left;
+  width: 1.94rem;
+}
+.act,
+.princetonClassroom {
+  left: 66.31rem;
+  width: 6.38rem;
+}
+.princetonClassroom {
+  top: 0.69rem;
+  left: 3.56rem;
+  width: 8.19rem;
+  height: 3.25rem;
+}
+.aces5,
+.aces6 {
+  position: absolute;
+  top: 31.19rem;
+  left: 0.25rem;
+  width: 93.75rem;
+  height: 4.31rem;
+  overflow: hidden;
+}
+.aces6 {
+  top: 21.31rem;
+  left: 0.13rem;
+}
+.ofClassSessions {
+  left: 28.56rem;
+  width: 6.38rem;
+}
+.classSize,
+.company,
+.fullProctoredTestsContainer,
+.ofClassSessions,
+.price {
+  position: absolute;
+  top: 1.19rem;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  height: 1.5rem;
+}
+.classSize {
+  left: 40.63rem;
+  text-align: left;
+  width: 6.38rem;
+}
+.company,
+.fullProctoredTestsContainer,
+.price {
+  left: 79.44rem;
+  width: 9.81rem;
+}
+.company,
+.price {
+  left: 4.75rem;
+  text-align: left;
+  width: 6.38rem;
+}
+.price {
+  left: 17.94rem;
+  width: 3.88rem;
+}
+.rectangleParent,
+.titles {
+  position: absolute;
+  top: 0.31rem;
+  left: 0.13rem;
+  width: 93.75rem;
+  height: 6.25rem;
+  overflow: hidden;
+}
+.rectangleParent {
+  top: 6.5rem;
+  left: 13.06rem;
+  width: 93.88rem;
+  height: 36.19rem;
+  text-align: center;
+  font-size: var(--font-size-7xl);
+  color: var(--color-black);
+  font-family: var(--font-judson);
+}
+.internships1,
+.whyUs {
+  position: absolute;
+  color: var(--color-darkolivegreen-100);
+}
+.whyUs {
+  top: 71.75rem;
+  left: 0;
+  background-color: var(--color-white);
+  width: 120rem;
+  height: 43.88rem;
+  overflow: hidden;
+}
+.internships1 {
+  top: 2.13rem;
+  left: 51.44rem;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 17.13rem;
+  height: 3.5rem;
+}
+.internshipsChild,
+.internshipsInner,
+.internshipsItem,
+.rectangleDiv {
+  position: absolute;
+  top: 8.44rem;
+  left: 10.25rem;
+  background-color: var(--color-lightpink);
+  width: 43.94rem;
+  height: 13.75rem;
+}
+.internshipsInner,
+.internshipsItem,
+.rectangleDiv {
+  top: 27.06rem;
+  left: 65.75rem;
+}
+.internshipsInner,
+.rectangleDiv {
+  top: 8.44rem;
+}
+.rectangleDiv {
+  top: 27.06rem;
+  left: 10.25rem;
+}
+.summerCampInstructor {
+  position: absolute;
+  top: 10.25rem;
+  left: 18.69rem;
+  font-size: var(--font-size-45xl);
+  letter-spacing: -0.02em;
+  display: inline-block;
+  text-align: center;
+  width: 27.06rem;
+  height: 10.13rem;
+}
+.description,
+.howToApply,
+.jobTitle,
+.qualifications {
+  position: absolute;
+  top: 4.63rem;
+  left: 68.69rem;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 20.38rem;
+  height: 3.81rem;
+}
+.description,
+.howToApply,
+.jobTitle {
+  top: 22.88rem;
+  left: 11.88rem;
+  width: 16.88rem;
+  height: 3.69rem;
+}
+.howToApply,
+.jobTitle {
+  top: 4.63rem;
+}
+.howToApply {
+  top: 22.88rem;
+  left: 69.31rem;
+  width: 19.13rem;
+  height: 4.19rem;
+}
+.gpaOfAtLeast35On40Sca {
+  margin-bottom: false;
+}
+.interestsProgramDevelopment {
+  margin: 0;
+  font-family: inherit;
+  padding-left: var(--padding-16xl);
+}
+.blankLine {
+  margin: 0;
+  font-size: var(--font-size-5xl);
+}
+.interestsProgramDevelopmentContainer {
+  position: absolute;
+  top: 9.5rem;
+  left: 65.75rem;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 42.63rem;
+  height: 12.13rem;
+  font-size: var(--font-size-7xl);
+}
+.sueWang1 {
+  text-decoration: underline;
+}
+.sueWang {
+  color: inherit;
+}
+.blankLine2 {
+  font-size: var(--font-size-5xl);
+}
+.acesInstructorsTeach,
+.b,
+.pleaseEmailTheContainer {
+  position: absolute;
+  font-size: var(--font-size-7xl);
+  letter-spacing: -0.02em;
+  display: inline-block;
+}
+.pleaseEmailTheContainer {
+  top: 28.31rem;
+  left: 67.5rem;
+  width: 40.88rem;
+  height: 11.31rem;
+}
+.acesInstructorsTeach,
+.b {
+  top: 27.25rem;
+  left: 10.25rem;
+  width: 43.94rem;
+}
+.acesInstructorsTeach {
+  top: 29.94rem;
+  left: 12.25rem;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-judson);
+  width: 40.81rem;
+  height: 7.38rem;
+}
+.internships {
+  position: absolute;
+  top: 161.81rem;
+  left: 0;
+  width: 120rem;
+  height: 43.25rem;
+  overflow: hidden;
+  color: var(--color-black);
+}
+.jobOpportunities {
+  position: absolute;
+  top: 1.19rem;
+  left: 47.81rem;
+  font-size: var(--h1-size);
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 24.31rem;
+  height: 3.5rem;
+}
+.description1,
+.howToApply1,
+.jobsAvailable,
+.qualifications1 {
+  position: absolute;
+  top: 5.56rem;
+  left: 66.38rem;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 15.44rem;
+  height: 2.63rem;
+}
+.description1,
+.howToApply1,
+.jobsAvailable {
+  top: 23.63rem;
+  left: 66.56rem;
+  width: 15.25rem;
+}
+.description1,
+.jobsAvailable {
+  top: 5.44rem;
+  left: 10.94rem;
+  width: 16.56rem;
+}
+.description1 {
+  top: 23.63rem;
+  width: 12.75rem;
+}
+.employmentChild,
+.employmentChild1,
+.employmentInner,
+.employmentItem {
+  position: absolute;
+  top: 27.06rem;
+  left: 10.25rem;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke);
+  width: 43.94rem;
+  height: 13.75rem;
+}
+.employmentChild1,
+.employmentInner,
+.employmentItem {
+  left: 65.81rem;
+}
+.employmentChild1,
+.employmentInner {
+  top: 9rem;
+}
+.employmentChild1 {
+  left: 10.25rem;
+}
+.resumeCoverLetterSatAct {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-10xl);
+}
+.emailTheFollowingContainer {
+  top: 28.25rem;
+  left: 67.38rem;
+  width: 41.63rem;
+}
+.acesInstructorsTeach1,
+.anExcellentCommandContainer,
+.emailTheFollowingContainer,
+.satpsatWorkshopInstructorContainer {
+  position: absolute;
+  font-size: var(--font-size-3xl);
+  letter-spacing: -0.02em;
+  display: inline-block;
+  font-family: var(--font-judson);
+  color: var(--color-black);
+}
+.acesInstructorsTeach1 {
+  top: 29.88rem;
+  left: 12.31rem;
+  width: 40.81rem;
+  height: 7.38rem;
+}
+.anExcellentCommandContainer,
+.satpsatWorkshopInstructorContainer {
+  width: 41.63rem;
+}
+.satpsatWorkshopInstructorContainer {
+  top: 11rem;
+  left: 11.44rem;
+  line-height: 3.13rem;
+}
+.anExcellentCommandContainer {
+  top: 10rem;
+  left: 67.44rem;
+}
+.employment,
+.whoWeAreChild {
+  position: absolute;
+  left: 0;
+  width: 120rem;
+}
+.employment {
+  top: 117.19rem;
+  background-color: var(--color-lightsteelblue);
+  height: 44.63rem;
+  font-size: var(--font-size-21xl);
+}
+.whoWeAreChild {
+  top: -0.12rem;
+  background-color: var(--color-crimson-200);
+  height: 54.81rem;
+}
+.whoWeAreInner,
+.whoWeAreItem {
+  position: absolute;
+  top: calc(50% - 298.5px);
+  left: 3.75rem;
+  border-radius: var(--br-61xl);
+  background-color: var(--color-lightsteelblue);
+  width: 112.31rem;
+  height: 20.06rem;
+}
+.whoWeAreInner {
+  top: calc(50% + 75.5px);
+}
+.acesAcademicEnrichment1 {
+  top: 35.25rem;
+  left: 31.75rem;
+  font-family: var(--font-hahmlet);
+  width: 82.13rem;
+  height: 15.06rem;
+}
+.acesAcademicEnrichment1,
+.ourMission,
+.ourMissionAt,
+.ourPrograms,
+.whoWeAre1 {
+  position: absolute;
+  letter-spacing: -0.02em;
+  display: inline-block;
+}
+.ourMissionAt {
+  top: 12.63rem;
+  left: 8.25rem;
+  font-family: var(--font-hahmlet);
+  width: 73.25rem;
+  height: 15.06rem;
+}
+.ourMission,
+.ourPrograms,
+.whoWeAre1 {
+  top: 9.44rem;
+  left: 8.31rem;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  width: 13.75rem;
+  height: 3.5rem;
+}
+.ourPrograms,
+.whoWeAre1 {
+  top: 32.75rem;
+  left: 7.19rem;
+  width: 15.94rem;
+}
+.whoWeAre1 {
+  top: 1.88rem;
+  left: 50.88rem;
+  font-size: var(--h1-size);
+  width: 18.63rem;
+}
+.iconParkOutlinequote {
+  position: absolute;
+  height: 32.56%;
+  top: 67.36%;
+  bottom: 0.08%;
+  left: calc(50% + 100px);
+  max-height: 100%;
+  width: 4.77rem;
+  overflow: hidden;
+  object-fit: contain;
+}
+.iconParkOutlinequote1 {
+  position: absolute;
+  top: -0.5rem;
+  left: 0.25rem;
+  width: 4.81rem;
+  height: 5rem;
+  overflow: hidden;
+  object-fit: cover;
+}
+.weStriveTo {
+  position: absolute;
+  top: 2.19rem;
+  left: 3.5rem;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 28.19rem;
+  height: 11.06rem;
+}
+.quote1 {
+  position: absolute;
+  top: 11.94rem;
+  left: 83.25rem;
+  width: 30.63rem;
+  height: 15.13rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-petrona);
+}
+.weProvideA {
+  position: absolute;
+  top: 2rem;
+  left: 4.19rem;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 20.94rem;
+  height: 8.19rem;
+}
+.iconParkOutlinequote2 {
+  top: -0.31rem;
+  left: 0.31rem;
+  width: 4.81rem;
+  height: 5rem;
+  object-fit: cover;
+}
+.iconParkOutlinequote2,
+.iconParkOutlinequote3,
+.quote2 {
+  position: absolute;
+  overflow: hidden;
+}
+.iconParkOutlinequote3 {
+  height: 36.65%;
+  top: 57.67%;
+  bottom: 5.67%;
+  left: calc(50% + 104px);
+  max-height: 100%;
+  width: 4.77rem;
+  object-fit: contain;
+}
+.quote2 {
+  top: 36.69rem;
+  left: 4.06rem;
+  width: 25.13rem;
+  height: 13.44rem;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-petrona);
+}
+.headerChild,
+.whoWeAre {
+  position: absolute;
+  left: 0;
+  width: 120rem;
+}
+.whoWeAre {
+  top: 17.06rem;
+  height: 54.69rem;
+  overflow: hidden;
+  font-size: var(--font-size-xl);
+  color: var(--color-whitesmoke);
+}
+.headerChild {
+  top: -0.19rem;
+  background-color: var(--color-white);
+  height: 12.06rem;
+}
+.navbarChild {
+  position: absolute;
+  top: 0.94rem;
+  left: 55.31rem;
+  width: 1.56rem;
+  height: 1.25rem;
+  object-fit: contain;
+  cursor: pointer;
+}
+.applyNow {
+  top: 0;
+  left: 43.5rem;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  color: var(--color-darkolivegreen-100);
+  width: 11.81rem;
+  height: 2.94rem;
+}
+.abUsPredropChild,
+.aboutUs1,
+.applyNow {
+  position: absolute;
+  cursor: pointer;
+}
+.abUsPredropChild {
+  top: 1.06rem;
+  left: 9.38rem;
+  width: 1.56rem;
+  height: 1.25rem;
+  object-fit: contain;
+}
+.aboutUs1 {
+  top: 0.13rem;
+  left: 0.13rem;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 9.25rem;
+  height: 2.94rem;
+}
+.abUsPredrop {
+  position: absolute;
+  top: -0.12rem;
+  left: 31.56rem;
+  width: 25.94rem;
+  height: 22.63rem;
+  overflow: hidden;
+}
+.schedule {
+  position: absolute;
+  top: 0.25rem;
+  left: 0.19rem;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 9.5rem;
+  height: 2.94rem;
+  cursor: pointer;
+}
+.schedulePreDropChild {
+  position: absolute;
+  top: 1.13rem;
+  left: 9.69rem;
+  width: 1.56rem;
+  height: 1.25rem;
+  object-fit: contain;
+  cursor: pointer;
+}
+.schedulePreDrop {
+  position: absolute;
+  top: -0.25rem;
+  left: 19.38rem;
+  width: 23.13rem;
+  height: 24.94rem;
+  overflow: hidden;
+}
+.navbar {
+  position: absolute;
+  top: 8.88rem;
+  left: 62.5rem;
+  width: 7.13rem;
+  height: 2.94rem;
+}
+.academic,
+.enrichmentCenter,
+.home {
+  position: absolute;
+  letter-spacing: -0.02em;
+}
+.home {
+  height: 24.87%;
+  width: 5.94%;
+  top: 75.13%;
+  left: 50.31%;
+  display: inline-block;
+  cursor: pointer;
+}
+.academic,
+.enrichmentCenter {
+  left: 0;
+  display: flex;
+  align-items: flex-end;
+}
+.academic {
+  height: 100%;
+  width: 100%;
+  top: 0;
+}
+.enrichmentCenter {
+  top: 3.56rem;
+  color: var(--color-darkolivegreen-100);
+  width: 37.75rem;
+  height: 3.94rem;
+  mix-blend-mode: normal;
+}
+.aceslogo1Icon {
+  position: absolute;
+  top: -2.5rem;
+  left: -8.62rem;
+  width: 7.19rem;
+  height: 8.69rem;
+  object-fit: cover;
+}
+.acesLogo {
+  position: absolute;
+  top: 2.81rem;
+  left: 10.63rem;
+  width: 19rem;
+  height: 3.75rem;
+  font-size: var(--font-size-25xl);
+  color: var(--color-darkolivegreen-200);
+  font-family: var(--font-inknut-antiqua);
+}
+.headerItem,
+.programs {
+  position: absolute;
+  cursor: pointer;
+}
+.programs {
+  top: 8.88rem;
+  left: 69.19rem;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 10.25rem;
+  height: 2.94rem;
+}
+.headerItem {
+  top: 9.81rem;
+  left: 79.44rem;
+  width: 1.56rem;
+  height: 1.25rem;
+  object-fit: contain;
+}
+.contactHeaderChild,
+.header {
+  position: absolute;
+  left: 0;
+  width: 120rem;
+}
+.header {
+  top: 5.19rem;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  height: 11.81rem;
+  overflow: hidden;
+  font-size: var(--font-size-20xl);
+  color: var(--color-lightsteelblue);
+  font-family: var(--font-judson);
+}
+.contactHeaderChild {
+  top: 0.06rem;
+  background-color: var(--color-crimson-200);
+  height: 5.13rem;
+}
+.applyNowChild {
+  position: absolute;
+  top: -0.87rem;
+  left: -1.56rem;
+  border-radius: var(--br-xl);
+  background-color: var(--color-lightsteelblue);
+  width: 11.81rem;
+  height: 3.06rem;
+}
+.applyNow2 {
+  position: absolute;
+  height: 95.83%;
+  width: 87.5%;
+  top: -8.33%;
+  left: 6.25%;
+  letter-spacing: -0.02em;
+  display: inline-block;
+}
+.applyNow1 {
+  position: absolute;
+  top: 1.94rem;
+  left: 108.44rem;
+  width: 9rem;
+  height: 1.5rem;
+  cursor: pointer;
+  font-family: var(--font-inter);
+}
+.socialsIcon1 {
+  position: absolute;
+  top: 0.88rem;
+  left: 87.19rem;
+  width: 18.81rem;
+  height: 3.25rem;
+  overflow: hidden;
+  object-fit: cover;
+}
+.div26,
+.infoaceslearningcentercom3 {
+  position: absolute;
+  top: 1.19rem;
+  letter-spacing: -0.02em;
+  display: inline-block;
+}
+.infoaceslearningcentercom3 {
+  right: 74.94rem;
+  width: 23.13rem;
+  height: 1.81rem;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.div26 {
+  right: 103.2rem;
+  width: 11.18rem;
+  height: 1.83rem;
+}
+.solarphoneLinearIcon1,
+.vectorIcon1 {
+  position: absolute;
+  overflow: hidden;
+  object-fit: cover;
+}
+.vectorIcon1 {
+  height: 50.61%;
+  width: 2.86%;
+  top: 27.68%;
+  right: 82.24%;
+  bottom: 21.71%;
+  left: 14.9%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.solarphoneLinearIcon1 {
+  top: 1.25rem;
+  left: 2.19rem;
+  width: 3.44rem;
+  height: 3.44rem;
+}
+.contactHeader {
+  position: absolute;
+  top: -0.06rem;
+  left: 0;
+  width: 120rem;
+  height: 5.13rem;
+  overflow: hidden;
+  font-size: var(--font-size-3xl-4);
+  font-family: var(--font-hahmlet);
+}
+.aboutUs {
+  position: relative;
+  width: 100%;
+  height: 232.44rem;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--h1-size);
+  color: var(--color-white);
+  font-family: var(--h1);
+}
