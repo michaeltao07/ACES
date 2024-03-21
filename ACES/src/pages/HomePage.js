@@ -1,4 +1,4 @@
-import { useState, useCallback } from "react";
+import { useRef, useState, useCallback} from "react";
 import ApplyNowDrop from "../components/ApplyNowDrop";
 import PortalPopup from "../components/PortalPopup";
 import AbUsDrop from "../components/AbUsDrop";
@@ -16,6 +16,7 @@ const HomePage = () => {
   const [isProgramsDropOpen, setProgramsDropOpen] = useState(false);
   const [isProgramsDrop1Open, setProgramsDrop1Open] = useState(false);
   const navigate = useNavigate();
+ 
 
   const openApplyNowDrop = useCallback(() => {
     setApplyNowDropOpen(true);
@@ -76,6 +77,7 @@ const HomePage = () => {
   const closeProgramsDrop1 = useCallback(() => {
     setProgramsDrop1Open(false);
   }, []);
+
 
   return (
     <>
@@ -487,7 +489,7 @@ const HomePage = () => {
       {isProgramsDropOpen && (
         <PortalPopup
           overlayColor="rgba(113, 113, 113, 0.3)"
-          placement="Centered"
+          placement="Top Left"
           onOutsideClick={closeProgramsDrop}
         >
           <ProgramsDrop onClose={closeProgramsDrop} />

@@ -287,7 +287,8 @@ const Mathematics = () => {
             </div>
           </div>
           <b className={styles.home} onClick={onHomeTextClick}>
-            <p className={styles.p}>Home</p>
+            {/*<p className={styles.p}>Home</p>*/}
+            Home
           </b>
           <div className={styles.acesLogo}>
             <b className={styles.academic}>{`Academic `}</b>
